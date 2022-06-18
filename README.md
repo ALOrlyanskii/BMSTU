@@ -22,3 +22,5 @@
 - модуль упругости при растяжении;
 - модуль прочности при растяжении;
 - соотношение матрица-наполнитель.
+
+ссылка на блокнот в GoogleCollab https://colab.research.google.com/github/ALOrlyanskii/BMSTU/blob/main/VKR_Orlyanskii_AL_2local.ipynb
